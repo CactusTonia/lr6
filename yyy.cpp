@@ -56,19 +56,7 @@ int main() {
 	case 0: cout << "років"; break;
 	}
 
-	switch (c)
-	{
-	case 1: cout << "рік"; break;
-	case 2: cout << "роки "; break;
-	case 3: cout << "роки "; break;
-	case 4: cout << "роки "; break;
-	case 5: cout << "років "; break;
-	case 6: cout << "років "; break;
-	case 7: cout << "років "; break;
-	case 8: cout << "років "; break;
-	case 9: cout << "років "; break;
-	case 0: cout << "років"; break;
-	}
+
 
 	system("pause");
 	return 0;
